@@ -1,0 +1,17 @@
+(footprint "plane_bridge" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at -0.05 -1.425 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cca874f5-a216-4fa1-99a9-9073ec333a42)
+  )
+  (fp_text value "plane_bridge" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8772dcaf-489e-4947-bcb8-55838f88ef2a)
+  )
+  (pad "1" smd rect (at 0.475 0) (size 1 1.524) (layers "F.Cu")
+    (clearance 0.0001) (zone_connect 2) (tstamp 358a0110-b4b4-43d3-9470-2fdb93ba6c4a))
+  (pad "2" smd rect (at -0.475 0) (size 1 1.524) (layers "F.Cu")
+    (clearance 0.0001) (zone_connect 2) (tstamp a69023a2-f3c7-4b20-b5eb-38db13269d10))
+)

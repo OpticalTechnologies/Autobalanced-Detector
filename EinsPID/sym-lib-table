@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "SGM4157YC6")(type "KiCad")(uri "${KIPRJMOD}/libs/SGM4157YC6.kicad_sym")(options "")(descr ""))
+  (lib (name "lib_AD8034ARZ")(type "Legacy")(uri "${KIPRJMOD}/libs/lib_AD8034ARZ.lib")(options "")(descr ""))
+  (lib (name "lib_AD8040")(type "Legacy")(uri "${KIPRJMOD}/libs/lib_AD8040.lib")(options "")(descr ""))
+  (lib (name "AD5160")(type "KiCad")(uri "${KIPRJMOD}/libs/AD5160.kicad_sym")(options "")(descr ""))
+)
