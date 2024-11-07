@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "SRSDetV5-rescue")(type "Legacy")(uri "${KIPRJMOD}/SRSDetV5-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "AD8033")(type "Legacy")(uri "${KIPRJMOD}/libs/AD8033.lib")(options "")(descr ""))
+  (lib (name "lib_lmh6624")(type "Legacy")(uri "${KIPRJMOD}/libs/lib_lmh6624.lib")(options "")(descr ""))
+  (lib (name "lib_opa990")(type "Legacy")(uri "${KIPRJMOD}/libs/lib_opa990.lib")(options "")(descr ""))
+  (lib (name "solder_pad")(type "Legacy")(uri "${KIPRJMOD}/libs/solder_pad.lib")(options "")(descr ""))
+)

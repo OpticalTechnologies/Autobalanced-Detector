@@ -1,0 +1,10 @@
+(module 124f_capacitor_PCB_FR4_1.6mm (layer F.Cu) (tedit 600EEC4C)
+  (fp_text reference REF** (at 0 2.54) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 124f_capacitor_PCB_FR4_1.6mm (at 1.27 3.81) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 connect trapezoid (at 0 0) (size 2.24 2.24) (layers F.Cu))
+  (pad 2 connect trapezoid (at 0 0) (size 2.24 2.24) (layers B.Cu))
+)
