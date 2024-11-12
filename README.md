@@ -8,4 +8,4 @@ The autobalanced detector consists of three parts:
 
 The SRSDetV5 is optimized for use with a 20MHz modulation frequency and incorperates several filters to supress the repetition rate of a 40MHz pulsed laser and its harmonics. 
 
-Firmware for the PID MCU and more information will follow.
+Firmware for the PID MCU and information on how to upload the firmware to the MCU.
